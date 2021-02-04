@@ -1,2 +1,2 @@
-# lubridate_stringr
-En este sesión hablamos de los paquetes lubridate y stringr
+# lubridate
+En este sesión hablamos del paquete lubridate y sus principales funciones
